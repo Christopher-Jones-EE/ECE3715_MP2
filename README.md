@@ -17,7 +17,7 @@ SEED = 300132899
 
 ## Runtime
  
-About 9 seconds on a clean kernel (limit: 5 minutes). The last cell of the notebook prints the measured total.
+About 42.5 seconds on a clean kernel (limit: 5 minutes). The last cell of the notebook prints the measured total.
  
 ## Files
  
